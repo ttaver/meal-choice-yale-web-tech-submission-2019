@@ -1,2 +1,3 @@
-def meal_choice
+def meal_choice(value)
+  value
 end
